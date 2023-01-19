@@ -1,0 +1,1 @@
+cop.txt dosyasý oluþturuldu ve içine bu metin yazýldý
